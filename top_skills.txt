@@ -1,0 +1,6 @@
+Top Skills:
+sql : 4
+python : 4
+excel : 2
+ml : 2
+powerbi : 2
